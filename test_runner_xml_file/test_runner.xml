@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="first_cases" preserve-order="true" verbose="10" thread-count="1">
+    <listeners>
+        <listener class-name="automated_tests.utils.Listener"/>
+        <listener class-name="automated_tests.utils.CustomListener"/>
+    </listeners>
+    <test name="check login">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="automated_tests.automated_tests_list.task.LoginTest"/>
+        </classes>
+    </test>
+    <test name="check registration">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="automated_tests.automated_tests_list.task.RegistrationTest"/>
+        </classes>
+    </test>
+</suite>

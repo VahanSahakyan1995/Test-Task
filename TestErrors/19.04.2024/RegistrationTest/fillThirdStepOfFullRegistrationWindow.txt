@@ -1,0 +1,20 @@
+Fri Apr 19 15:01:44 AMT 2024 SEVERE network - The script has an unsupported MIME type ('text/html').
+Fri Apr 19 15:01:45 AMT 2024 SEVERE https://craftbet.com/home - Error while trying to use the following icon from the Manifest: https://craftbet.com/assets/images/a2hs.png (Download error or resource isn't a valid image)
+Fri Apr 19 15:01:46 AMT 2024 SEVERE https://craftbet.com/assets/images/footer-menu/ - Failed to load resource: the server responded with a status of 403 ()
+Fri Apr 19 15:01:47 AMT 2024 SEVERE https://widgets.craftbet.com/main.dd0c8e69b89fb01d.js 0:324255 "ERROR" ee
+Fri Apr 19 15:05:45 AMT 2024 SEVERE network - The script has an unsupported MIME type ('text/html').
+Fri Apr 19 15:05:46 AMT 2024 SEVERE https://craftbet.com/home - Error while trying to use the following icon from the Manifest: https://craftbet.com/assets/images/a2hs.png (Download error or resource isn't a valid image)
+Fri Apr 19 15:05:47 AMT 2024 SEVERE https://craftbet.com/assets/images/footer-menu/ - Failed to load resource: the server responded with a status of 403 ()
+Fri Apr 19 15:05:48 AMT 2024 SEVERE https://widgets.craftbet.com/main.dd0c8e69b89fb01d.js 0:324255 "ERROR" ee
+Fri Apr 19 15:10:53 AMT 2024 SEVERE network - The script has an unsupported MIME type ('text/html').
+Fri Apr 19 15:10:53 AMT 2024 SEVERE https://craftbet.com/home - Error while trying to use the following icon from the Manifest: https://craftbet.com/assets/images/a2hs.png (Download error or resource isn't a valid image)
+Fri Apr 19 15:10:54 AMT 2024 SEVERE https://craftbet.com/assets/images/footer-menu/ - Failed to load resource: the server responded with a status of 403 ()
+Fri Apr 19 15:10:55 AMT 2024 SEVERE https://widgets.craftbet.com/main.dd0c8e69b89fb01d.js 0:324255 "ERROR" ee
+Fri Apr 19 15:11:34 AMT 2024 SEVERE network - The script has an unsupported MIME type ('text/html').
+Fri Apr 19 15:11:35 AMT 2024 SEVERE https://craftbet.com/home - Error while trying to use the following icon from the Manifest: https://craftbet.com/assets/images/a2hs.png (Download error or resource isn't a valid image)
+Fri Apr 19 15:11:36 AMT 2024 SEVERE https://craftbet.com/assets/images/footer-menu/ - Failed to load resource: the server responded with a status of 403 ()
+Fri Apr 19 15:11:37 AMT 2024 SEVERE https://widgets.craftbet.com/main.dd0c8e69b89fb01d.js 0:324255 "ERROR" ee
+Fri Apr 19 15:13:05 AMT 2024 SEVERE network - The script has an unsupported MIME type ('text/html').
+Fri Apr 19 15:13:06 AMT 2024 SEVERE https://craftbet.com/home - Error while trying to use the following icon from the Manifest: https://craftbet.com/assets/images/a2hs.png (Download error or resource isn't a valid image)
+Fri Apr 19 15:13:07 AMT 2024 SEVERE https://craftbet.com/assets/images/footer-menu/ - Failed to load resource: the server responded with a status of 403 ()
+Fri Apr 19 15:13:07 AMT 2024 SEVERE https://widgets.craftbet.com/main.dd0c8e69b89fb01d.js 0:324255 "ERROR" ee
